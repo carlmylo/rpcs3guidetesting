@@ -13,6 +13,11 @@ url:              'https://carlmylo.github.io'
 baseurl:          '/rpcs3guidetesting'
 rss:              RSS
 
+languages: ["en", "es"]
+default_lang: "en"
+exclude_from_localization: ["javascript", "images", "css", "public", "customconfig", "instrument-repo"]
+parallel_localization: true
+
 # bootstrap: use the remote theme for the site itself
 remote_theme: sighingnow/jekyll-gitbook
 
@@ -77,3 +82,4 @@ plugins:
   - jekyll-feed
   - jekyll-readme-index
   - jemoji
+  - jekyll-polyglot

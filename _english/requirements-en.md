@@ -3,6 +3,9 @@ title: Requirements
 author: Carl Mylo
 date: 1000-01-02
 category: English
+permalink: /requirements
+lang: en
+page_id: requirements
 layout: post
 ---
 

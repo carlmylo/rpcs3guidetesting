@@ -3,6 +3,9 @@ title: Requisitos
 author: Carl Mylo
 date: 2000-02-01
 category: Espanol
+permalink: /requisitos
+lang: es
+page_id: requirements
 layout: post
 ---
 
