@@ -9,8 +9,8 @@ description: >
 version:          1.0
 gitbook_version:  3.2.3
 
-url:              'https://hmxmilohax.github.io'
-baseurl:          '/rb3-pc'
+url:              'https://carlmylo.github.io'
+baseurl:          '/rpcs3guidetesting'
 rss:              RSS
 
 # bootstrap: use the remote theme for the site itself

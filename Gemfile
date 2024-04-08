@@ -9,4 +9,8 @@ gem 'jekyll-readme-index'
 gem 'jemoji'
 gem 'webrick'
 
+group :jekyll_plugins do
+   gem "jekyll-polyglot"
+end
+
 # gem "rails"
