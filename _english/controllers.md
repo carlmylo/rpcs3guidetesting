@@ -65,6 +65,7 @@ You can use various instruments with RPCS3 to play Rock Band 3.
 
 
 # Gamepads:
+
 |  Picture | Name | Platform | More Info |
 |--|--|--|--|
 |[![Xbox One Controller](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/instruments/list/padxbo.png)](https://rb3pc.milohax.org/instruments/xbox/360pad "Xbox 360 Controller") | Xbox One Controller | ![Xbox One](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/instruments/plat/xbx.png) | [[CLICK HERE]](https://rb3pc.milohax.org/instruments/xbox/xb1pad) |
@@ -79,6 +80,7 @@ You can use various instruments with RPCS3 to play Rock Band 3.
 
 
 # Keyboards:
+
 |  Picture | Name | Platform | More Info |
 |--|--|--|--|
 |[![MIDI Keyboard](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/instruments/list/promidi.png)](https://rb3pc.milohax.org/instruments/misc/midikeys "MIDI Keyboard") | MIDI Keyboard | ![MIDI](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/instruments/plat/midi.png) | [[CLICK HERE]](https://rb3pc.milohax.org/instruments/misc/midikeys) |
@@ -87,6 +89,7 @@ You can use various instruments with RPCS3 to play Rock Band 3.
 |[![PlayStation 3 Rock Band Wireless Keyboard](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/instruments/list/prokeys.png)](https://rb3pc.milohax.org/instruments/wii/rbkeys "Rock Band Wireless Keyboard") | Rock Band Wireless Keyboard | ![Nintendo Wii](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/instruments/plat/wii.png) | [[CLICK HERE]](https://rb3pc.milohax.org/instruments/wii/rbkeys) |
 
 # Pro Guitars:
+
 |  Picture | Name | Platform | More Info |
 |--|--|--|--|
 |[![PlayStation 3 Fender Mustang](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/instruments/list/promust.png)](https://rb3pc.milohax.org/instruments/ps3/protar "Fender Mustang") | Fender Mustang | ![PlayStation 3](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/instruments/plat/ps3.png) | [[CLICK HERE]](https://rb3pc.milohax.org/instruments/ps3/protar) |
