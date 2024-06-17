@@ -17,13 +17,13 @@ layout: post
 
 * Change the controller output type to XInput and Guitar Hero Guitar.
 
-![Platform](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/instruments/santroller.png "Platform") 
+![Platform](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/instruments/plat/santroller.png "Platform") 
 
-![Controller](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/instruments/wiilpcontroller.png "Controller") 
+![Controller](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/instruments/cont/wiilpcontroller.png "Controller") 
 
-![Mapping](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/instruments/picolpmapping.png "Mapping") 
+![Mapping](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/instruments/maps/picolpmapping.png "Mapping") 
 
-[[Back to Instrument Repo]](https://hmxmilohax.github.io/rb3-pc/english/instrumentrepo/#instrument-list)
+[[Back to Instrument Repo]](https://rb3pc.milohax.org/english/instrumentrepo/#instrument-list)
 
 
 

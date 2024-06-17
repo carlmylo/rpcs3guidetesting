@@ -33,10 +33,10 @@ You can shift octaves with the X and B buttons.
 
 
 
-![Platform](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/instruments/360.png "Platform") 
+![Platform](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/instruments/plat/360.png "Platform") 
 
-![Controller](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/instruments/360rbkeyscontroller.png "Controller") 
+![Controller](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/instruments/cont/360rbkeyscontroller.png "Controller") 
 
-[[Back to Instrument Repo]](https://hmxmilohax.github.io/rb3-pc/english/instrumentrepo/#instrument-list)
+[[Back to Instrument Repo]](https://rb3pc.milohax.org/english/instrumentrepo/#instrument-list)
 
 Research by [[Linos]](https://www.youtube.com/@LinosMelendi)

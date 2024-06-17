@@ -14,13 +14,13 @@ layout: post
 * If the controller doesn't work at all, try installing [[Raphnet's management tool]](https://www.raphnet-tech.com/products/adapter_manager/index.php).
 
 
-![Platform](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/instruments/wii.png "Platform") 
+![Platform](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/instruments/plat/wii.png "Platform") 
 
-![Controller](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/instruments/wiilpcontroller.png "Controller") 
+![Controller](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/instruments/cont/wiilpcontroller.png "Controller") 
 
-![Mapping](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/instruments/wiiraphlpmapping.png "Mapping") 
+![Mapping](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/instruments/maps/wiiraphlpmapping.png "Mapping") 
 
-[[Back to Instrument Repo]](https://hmxmilohax.github.io/rb3-pc/english/instrumentrepo/#instrument-list)
+[[Back to Instrument Repo]](https://rb3pc.milohax.org/english/instrumentrepo/#instrument-list)
 
 
 

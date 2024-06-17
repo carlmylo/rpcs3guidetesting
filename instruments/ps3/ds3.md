@@ -26,12 +26,12 @@ layout: post
 | ![Select Button](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/ps3/sel.png "Select Button") | Overdrive |
 
 
-![Platform](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/instruments/ps3.png "Platform") 
+![Platform](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/instruments/plat/ps3.png "Platform") 
 
-![Controller](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/instruments/ps3ds3controller.png "Controller") 
+![Controller](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/instruments/cont/ps3ds3controller.png "Controller") 
 
-![Mapping](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/instruments/ps3ds3mapping.png "Mapping") 
+![Mapping](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/instruments/maps/ps3ds3mapping.png "Mapping") 
 
-[[Back to Instrument Repo]](https://hmxmilohax.github.io/rb3-pc/english/instrumentrepo/#instrument-list)
+[[Back to Instrument Repo]](https://rb3pc.milohax.org/english/instrumentrepo/#instrument-list)
 
 Instructions by [SlothDemon](https://www.youtube.com/@SlothDemon1991)

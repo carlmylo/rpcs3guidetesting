@@ -33,10 +33,10 @@ Puedes cambiar de octava con los botones de X y B.
 
 
 
-![Plataforma](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/instruments/360.png "Plataforma") 
+![Plataforma](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/instruments/plat/360.png "Plataforma") 
 
-![Control](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/instruments/360rbkeyscontroller.png "Control") 
+![Control](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/instruments/cont/360rbkeyscontroller.png "Control") 
 
-[[Regresar al Repo de Instrumentos]](https://hmxmilohax.github.io/rb3-pc/espanol/repodeinst/#lista-de-instrumentos)
+[[Regresar al Repo de Instrumentos]](https://rb3pc.milohax.org/espanol/repodeinst/#lista-de-instrumentos)
 
 Investigado por [[Linos]](https://www.youtube.com/@LinosMelendi)

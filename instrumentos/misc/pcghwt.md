@@ -14,13 +14,13 @@ layout: post
 * Whammy no funciona, asi que una parte importante del juego no funciona.
 * El ladeo para activación no funciona. RPCS3 todavía no puede entender estos datos.
 
-![Plataforma](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/instruments/pc.png "Plataforma") 
+![Plataforma](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/instruments/plat/pc.png "Plataforma") 
 
-![Control](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/instruments/ghwtcontroller.png "Control") 
+![Control](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/instruments/cont/ghwtcontroller.png "Control") 
 
 ![Mapeando](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/instruments/pcghwtmapping.png "Mapeando") 
 
-[[Regresar al Repo de Instrumentos]](https://hmxmilohax.github.io/rb3-pc/espanol/repodeinst/#lista-de-instrumentos)
+[[Regresar al Repo de Instrumentos]](https://rb3pc.milohax.org/espanol/repodeinst/#lista-de-instrumentos)
 
 
 Mapeado por Derd

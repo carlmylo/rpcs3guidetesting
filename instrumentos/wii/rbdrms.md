@@ -16,13 +16,13 @@ layout: post
 * La detección de velocidad no funciona.
 
 
-![Plataforma](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/instruments/wii.png "Plataforma") 
+![Plataforma](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/instruments/plat/wii.png "Plataforma") 
 
-![Control](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/instruments/rbdrmscontroller.png "Control") 
+![Control](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/instruments/cont/rbdrmscontroller.png "Control") 
 
 ![Mapeando](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/instruments/wiirbdrmsmapping.png "Mapeando") 
 
-[[Regresar al Repo de Instrumentos]](https://hmxmilohax.github.io/rb3-pc/espanol/repodeinst/#lista-de-instrumentos)
+[[Regresar al Repo de Instrumentos]](https://rb3pc.milohax.org/espanol/repodeinst/#lista-de-instrumentos)
 
 
 

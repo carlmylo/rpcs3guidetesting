@@ -64,9 +64,7 @@ Iremos pestaña por pestaña, comenzando con:
 		* Bilinear (bilineal) es interpolación mas suave. Si la resolución del juego no es exacta a la de tu pantalla, puede resultar en una imagen borrosa.
 		* FidelityFX Super Resolution (FSR) usa calculaciones complejas para mejorar la imagen cuando se estira a la resolución de tu pantalla. Raramente, puede causar anormalidades en la imagen.
 			* Puedes usar "RCAS Sharpening Strength" (fuerza de enfoque) abajo para ajustar cuanta fuerza tiene el efecto.
-	
-	* ![Un cuadro bronceado con contorno solido.](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/cust/smalltan.png "Cuadro bronceado") **Para GPUs de alto poder y usuarios avanzados.**: 
-		* **Cambia "Default Resolution"** (Resolución Predeterminada) **a "1920x1080"**. Oficialmente, Rock Band 3 esta limitado a 1280x720, pero se puede ajustar manualmente para correr en una resolución mas alta. Si quieres mas información, [mira esta pagina](forcefullhd_es.md) después de terminar con las configuración principal.
+
 
 
 <br/>
@@ -200,7 +198,7 @@ En `rb3drums.yml`, vas a encontrar `Combo Start`, `Combo Select`, `Combo Toggle 
 * ![Un cuadro bronceado con un contorno solido.](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/cust/smalltan.png "Cuadro bronceado") **Para jugar en linea**: 
 	* Activa **"Enable UPNP"** (activar UPnP) o **reenvía el puerto 9103 (UDP) en tu cortafuegos. No actives UPNP mientras reenvías el puerto** porque esto puede causar crasheos.
 	* En este tiempo, existen dos servidores para jugar Rock Band 3 a los que te puedes conectar. Cambiando a cual te conectas es muy facil.
-		* **Para AshCentral: Unete al** [**[Discord de Milohax]**](https://rb3dx.neocities.org/discord) y **ve al canal** de **[\[#ashcentral-status\]](https://discord.com/channels/961352072140324924/1153056600030973992)**. **Copia la informacion para RPCS3.** Este es el servidor recomendado porque tiene actualizaciones mas frecuentes y mas funciones.
+		* **Para AshCentral: Unete al** [**[Discord de Milohax]**](https://rb3dx.neocities.org/discord_es) y **ve al canal** de **[\[#ashcentral-status\]](https://discord.com/channels/961352072140324924/1153056600030973992)**. **Copia la informacion para RPCS3.** Este es el servidor recomendado porque tiene actualizaciones mas frecuentes y mas funciones.
 		* Para el servidor de RBEnhanced: Únete al \[[Discord de RBEnhanced](https://discord.gg/6rRUWXPYwb)\] y ve al canal [\[#gocentral-connecting\]](https://discord.com/channels/953085263008129064/1076031372185042984). **Sigue las Instrucciones para RPCS3**.
 
 <br/>
@@ -218,7 +216,7 @@ En `rb3drums.yml`, vas a encontrar `Combo Start`, `Combo Select`, `Combo Toggle 
 	* **Cambia a "Maximum Number of SPURS Threads"** (Máximo numero de hilos de SPURS) - Puede ayudar el rendimiento de computadoras con CPU de 4 núcleos/hilos, como [[CPUs de Intel i5 de la cuarta generación]](https://github.com/hmxmilohax/rb3-pc/issues/12#issue-1955946005).
 
 * ![Un cuadro bronceado con un contorno solido.](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/cust/smalltan.png "Cuadro bronceado"): **Recomendado**:
-	* **Activa "Debug Console Mode"** (Modo de consola saca-errores) - Con esto activado al lado de la función "Large Heap" de Rock Band 3 Deluxe, fácilmente puedes darle mas memoria a Rock Band 3. Esto ayuda con la estabilidad y te deja instalar hasta 16000 canciones. Es recomendado que todos tengan esto activado. [[Haz click aquí para mas información.]](https://hmxmilohax.github.io/rb3-pc/espanol/configuracionadicional#añadir-mas-memoria-a-Rock-Band-3)
+	* **Activa "Debug Console Mode"** (Modo de consola saca-errores) - Con esto activado al lado de la función "Large Heap" de Rock Band 3 Deluxe, fácilmente puedes darle mas memoria a Rock Band 3. Esto ayuda con la estabilidad y te deja instalar hasta 16000 canciones. Es recomendado que todos tengan esto activado. [[Haz click aquí para mas información.]](https://rb3pc.milohax.org/espanol/configuracionadicional#añadir-mas-memoria-a-Rock-Band-3)
 	* **Cambia el "Exclusive Fullscreen Mode"** (Modo de exclusividad de pantalla llena) **a "Prefer borderless fullscreen"** (preferir pantalla llena sin bordos) para prevenir posibles crasheos o desincronización al cambiar la prioridad del programa.
 
 <br/>

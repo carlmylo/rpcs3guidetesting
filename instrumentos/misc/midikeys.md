@@ -48,10 +48,10 @@ layout: post
 | Sostén | Sobrecarga/Éxtasis |
 | Perilla de Pitch/Tono | Whammy |
 
-![Plataforma](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/instruments/midi.png "Plataforma") 
+![Plataforma](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/instruments/plat/midi.png "Plataforma") 
 
-![Control](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/instruments/midikeyscontroller.png "Control") 
+![Control](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/instruments/cont/midikeyscontroller.png "Control") 
 
-[[Regresar al Repo de Instrumentos]](https://hmxmilohax.github.io/rb3-pc/espanol/repodeinst/#lista-de-instrumentos)
+[[Regresar al Repo de Instrumentos]](https://rb3pc.milohax.org/espanol/repodeinst/#lista-de-instrumentos)
 
 Implementado por [[Dark]](https://dark.ski/)

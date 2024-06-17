@@ -14,13 +14,13 @@ layout: post
 * Si la guitarra no funciona, trata de instalar [[la utilidad de Raphnet]](https://www.raphnet-tech.com/products/adapter_manager/index.php).
 
 
-![Plataforma](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/instruments/wii.png "Plataforma") 
+![Plataforma](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/instruments/plat/wii.png "Plataforma") 
 
-![Control](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/instruments/wiilpcontroller.png "Control") 
+![Control](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/instruments/cont/wiilpcontroller.png "Control") 
 
 ![Mapeando](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/instruments/wiiraphlpmapping.png "Mapeando") 
 
-[[Regresar al Repo de Instrumentos]](https://hmxmilohax.github.io/rb3-pc/espanol/repodeinst/#lista-de-instrumentos)
+[[Regresar al Repo de Instrumentos]](https://rb3pc.milohax.org/espanol/repodeinst/#lista-de-instrumentos)
 
 
 

@@ -15,13 +15,13 @@ layout: post
 * El ladeo para activación no funciona. RPCS3 todavía no puede entender estos datos.
 
 
-![Plataforma](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/instruments/ps3.png "Plataforma") 
+![Plataforma](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/instruments/plat/ps3.png "Plataforma") 
 
-![Control](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/instruments/ghlpcontroller.png "Control") 
+![Control](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/instruments/cont/ghlpcontroller.png "Control") 
 
 ![Mapeando](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/instruments/ps3ghlpmapping.png "Mapeando") 
 
-[[Regresar al Repo de Instrumentos]](https://hmxmilohax.github.io/rb3-pc/espanol/repodeinst/#lista-de-instrumentos)
+[[Regresar al Repo de Instrumentos]](https://rb3pc.milohax.org/espanol/repodeinst/#lista-de-instrumentos)
 
 
 Mapeado por 16bitblastprocessing

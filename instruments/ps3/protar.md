@@ -8,7 +8,7 @@ layout: post
 
 ## NOTES:
 
-* It's strongly suggested you connect your Pro Guitar with the dongle, if you have it. [[Click here for instructions on how to set that up.]](https://hmxmilohax.github.io/rb3-pc/english/passthroughdevices/)
+* It's strongly suggested you connect your Pro Guitar with the dongle, if you have it. [[Click here for instructions on how to set that up.]](https://rb3pc.milohax.org/english/passthroughdevices/)
 * **Requires a MIDI to USB Interface that has SYSEX support!** Consult your MIDI to USB interface's manual or manufacturer for more details.
 	* The M-Audio Midisport Uno is recommended as it has been verified to work.
 * This is meant for players that have their PRO Guitars connected via a MIDI to USB interface.
@@ -25,10 +25,10 @@ layout: post
 	* 🎸 **Change your “Emulated MIDI type” from “Keyboard” to “Guitar (17 Frets)” if you have a Mustang Pro Guitar, or “Guitar (22 Frets)” if you have a Squier Pro Guitar, then select your MIDI to USB interface in the drop-down menu next to it.**
 
 
-![Platform](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/instruments/ps3.png "Platform") 
+![Platform](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/instruments/plat/ps3.png "Platform") 
 
-![Controller](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/instruments/rbprotar.png "Controller") 
+![Controller](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/instruments/cont/rbprotar.png "Controller") 
 
-[[Back to Instrument Repo]](https://hmxmilohax.github.io/rb3-pc/english/instrumentrepo/#instrument-list)
+[[Back to Instrument Repo]](https://rb3pc.milohax.org/english/instrumentrepo/#instrument-list)
 
 Implementation by [[Dark]](https://dark.ski/)

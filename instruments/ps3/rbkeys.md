@@ -8,7 +8,7 @@ layout: post
 
 ## NOTES:
 
-* It's strongly suggested you connect the keyboard with the dongle, if you have it. [[Click here for instructions on how to set that up.]](https://hmxmilohax.github.io/rb3-pc/english/passthroughdevices/)
+* It's strongly suggested you connect the keyboard with the dongle, if you have it. [[Click here for instructions on how to set that up.]](https://rb3pc.milohax.org/english/passthroughdevices/)
 * This is meant for players that have the keyboards connected via a MIDI to USB interface.
 * None of the controller buttons will work as intended as the keyboard will be in MIDI mode.
 
@@ -32,10 +32,10 @@ You can shift octaves with the Square and Circle buttons.
 ![A GIF of a Rock Band 3 keyboard. When X (which is Square on PS3) is pressed, a yellow highlight, showing which notes are being used, shifts down to C to C4. When B (which is Circle on PS3) is pressed, it shifts up to C3 to C5.](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/instruments/rbkeysoctshift.gif "Octave Shifting") 
 
 
-![Platform](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/instruments/ps3.png "Platform") 
+![Platform](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/instruments/plat/ps3.png "Platform") 
 
-![Controller](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/instruments/ps3rbkeyscontroller.png "Controller") 
+![Controller](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/instruments/cont/ps3rbkeyscontroller.png "Controller") 
 
-[[Back to Instrument Repo]](https://hmxmilohax.github.io/rb3-pc/english/instrumentrepo/#instrument-list)
+[[Back to Instrument Repo]](https://rb3pc.milohax.org/english/instrumentrepo/#instrument-list)
 
 Research by [[Linos]](https://www.youtube.com/@LinosMelendi)

@@ -9,14 +9,9 @@ description: >
 version:          1.0
 gitbook_version:  3.2.3
 
-url:              'https://carlmylo.github.io'
-baseurl:          '/rpcs3guidetesting'
+url:              'https://hmxmilohax.github.io'
+baseurl:          '/'
 rss:              RSS
-
-languages: ["en", "es"]
-default_lang: "en"
-exclude_from_localization: ["javascript", "images", "css", "public", "customconfig", "instrument-repo"]
-parallel_localization: true
 
 # bootstrap: use the remote theme for the site itself
 remote_theme: sighingnow/jekyll-gitbook
@@ -27,7 +22,7 @@ toc:
   h_max: 3
 
 # customize the link favicon in header, will be {{site.baseurl}}/{{site.favicon_path}}
-favicon_path:     /assets/gitbook/images/favicon.ico
+favicon_path:     assets/gitbook/images/favicon.ico
 
 # markdown render engine.
 markdown:         kramdown
@@ -82,4 +77,3 @@ plugins:
   - jekyll-feed
   - jekyll-readme-index
   - jemoji
-  - jekyll-polyglot

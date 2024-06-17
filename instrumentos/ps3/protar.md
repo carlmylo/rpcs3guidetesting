@@ -8,7 +8,7 @@ layout: post
 
 ## NOTAS:
 
-* Se recomienda usar el receptor propio para la guitarra PRO, si lo tienes. [[Haz click aquí para ver cómo configurarlo con el receptor.]](https://hmxmilohax.github.io/rb3-pc/espanol/conexiondirecta/)
+* Se recomienda usar el receptor propio para la guitarra PRO, si lo tienes. [[Haz click aquí para ver cómo configurarlo con el receptor.]](https://rb3pc.milohax.org/espanol/conexiondirecta/)
 * **¡Se requiere convertidor de MIDI a USB pueda aceptar señales SYSEX!** Busca en el manual de tu convertidor de MIDI a USB o preguntale al fabricante para mas informacion.
 	* Se recomienda la "M-Audio Midisport Uno" porque esta confirmada que trabaja.
 * Esto es para los jugadores que tienen sus guitarras PRO conectadas con una un convertidor de MIDI a USB.
@@ -25,10 +25,10 @@ layout: post
 	* 🎸 **Cambia tu "Emulated MIDI type" (Tipo de MIDI emulado) de "Keyboard" (teclado) a "Guitar (17 Frets)"** (guitarra (17 trastes)) **si tienes una guitarra Pro Mustang, o "Guitar (22 Frets)"** (guitarra (22 trastes)) **si tienes una guitarra Pro Squier, luego selecciona tu interfaz MIDI a USB en el menú desplegable junto a él**.
 
 
-![Plataforma](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/instruments/ps3.png "Plataforma") 
+![Plataforma](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/instruments/plat/ps3.png "Plataforma") 
 
-![Control](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/instruments/rbprotar.png "Control") 
+![Control](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/instruments/cont/rbprotar.png "Control") 
 
-[[Regresar al Repo de Instrumentos]](https://hmxmilohax.github.io/rb3-pc/espanol/repodeinst/#lista-de-instrumentos)
+[[Regresar al Repo de Instrumentos]](https://rb3pc.milohax.org/espanol/repodeinst/#lista-de-instrumentos)
 
 Implementado por [[Dark]](https://dark.ski/)
