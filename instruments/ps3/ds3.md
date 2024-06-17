@@ -16,8 +16,9 @@ layout: post
 
 ### Device Class
 
-| Standard (Pad) | PS3 Controller |
+| Device Class | Device Subtype |
 |:------------------:|:---------------------:|
+| Standard (Pad) | PS3 Controller |
 
 ### Guitars/Bass/Keys
 
