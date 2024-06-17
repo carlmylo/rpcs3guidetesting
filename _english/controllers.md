@@ -9,9 +9,8 @@ layout: post
 # Intro
 
 You can use various instruments with RPCS3 to play Rock Band 3. 
+Below is a chart of instrumenent controllers that have been tested and verified to work. Each page on an instrument includes steps on how to map it and also a premade profile if you're only using one. Instructions on how to use the premade profiles are at the bottom of the page.
 
-
-=======
 # Drums
 
 |  Picture | Name | Platform | More Info|
@@ -93,11 +92,33 @@ You can use various instruments with RPCS3 to play Rock Band 3.
 |  Picture | Name | Platform | More Info |
 |--|--|--|--|
 |[![PlayStation 3 Fender Mustang](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/instruments/list/promust.png)](https://rb3pc.milohax.org/instruments/ps3/protar "Fender Mustang") | Fender Mustang | ![PlayStation 3](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/instruments/plat/ps3.png) | [[CLICK HERE]](https://rb3pc.milohax.org/instruments/ps3/protar) |
-|[![PlayStation 3 Squier Stratocaster](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/instruments/list/prostrat.png)](https://rb3pc.milohax.org/instruments/ps3/protar "Squier Stratocaster") | Squier Stratocaster | ![PlayStation 3](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/instruments/plat/ps3.png) | [[CLICK HERE]](https://rb3pc.milohax.org/instruments/ps3/protar) |
 |[![Xbox 360 Fender Mustang](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/instruments/list/promust.png)](https://rb3pc.milohax.org/instruments/xbox/protar "Fender Mustang") | Fender Mustang | ![Xbox 360](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/instruments/plat/360.png) | [[CLICK HERE]](https://rb3pc.milohax.org/instruments/xbox/protar) |
-|[![Xbox 360 Squier Stratocaster](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/instruments/list/prostrat.png)](https://rb3pc.milohax.org/instruments/xbox/protar "Squier Stratocaster") | Squier Stratocaster | ![Xbox 360](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/instruments/plat/360.png) | [[CLICK HERE]](https://rb3pc.milohax.org/instruments/xbox/protar) |
 |[![Nintendo Wii Fender Mustang](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/instruments/list/promust.png)](https://rb3pc.milohax.org/instruments/wii/protar "Fender Mustang") | Fender Mustang | ![Nintendo Wii](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/instruments/plat/wii.png) | [[CLICK HERE]](https://rb3pc.milohax.org/instruments/wii/protar) |
-|[![PlayStation 3 Squier Stratocaster](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/instruments/list/prostrat.png)](https://rb3pc.milohax.org/instruments/wii/protar "Squier Stratocaster") | Squier Stratocaster | ![Nintendo Wii](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/instruments/plat/wii.png) | [[CLICK HERE]](https://rb3pc.milohax.org/instruments/wii/protar) |
+|[![Squier Stratocaster](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/instruments/list/prostrat.png)](https://rb3pc.milohax.org/instruments/wii/protar "Squier Stratocaster") | Squier Stratocaster | ![MIDI](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/instruments/plat/midi.png) | [[CLICK HERE]](https://rb3pc.milohax.org/instruments/misc/protar) |
+
+
+# How to install:
+Before you install, **if you have any bindings in `config\input_configs\BLUS30463`, you should back them up because they will be overwritten.**
+
+1. Download the .7z file in the folder for the instrument(s) you want to use.
+2. Extract the .7z file.
+3. Drag the `config` folder into the folder you have RPCS3 in.
+
+![A GIF of a user dragging the Wii Rock Band Guitar configuration into their RPCS3 folder.](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/xtra/instrepoinstall.gif "Installing a configuration from the Instrument Repo")
+
+Most of the time, these controller profiles should work out of the box but if they don't, try changing the controller listed in "`Devices`", next to the "`Refresh`" button until it receives an input. You can edit this while the game is running.
+
+The profiles are formatted for single players. If you need to use a combination of various controllers for local multiplayer or want to quickly swap between multiple instruments, you can try the guide below for manually [[#mapping]](#mapping) additional controllers.
+
+Alternatively, you can combine multiple files if you know your way around text editors like Notepad++ or Sublime Text.
+Select everything from line 2 to the end of line 86 in the `Default.yml` file of the instrument you want to add, then copy it. 
+Paste it into:
+* Line 88 to 172 for Player 2
+* Line 174 to 258 for Player 3
+* Line 260 to 344 for Player 4
+* Line 346 to 430 for Player 5
+* Line 432 to 516 for Player 6
+* Line 518 to 602 for Player 7
 
 
 # Guitars  
