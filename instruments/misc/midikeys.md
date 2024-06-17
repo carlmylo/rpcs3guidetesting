@@ -51,6 +51,10 @@ layout: post
 
 ![Controller](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/instruments/cont/midikeyscontroller.png "Controller") 
 
-[[Back to Instrument Repo]](https://rb3pc.milohax.org/english/instrumentrepo/#instrument-list)
+<<<<<<< Updated upstream
+[[Back to Controllers]](https://rb3pc.milohax.org/english/controllers/)
+=======
+[[Back to Controllers]](https://rb3pc.milohax.org/english/controllers/)
+>>>>>>> Stashed changes
 
 Implementation by [[Dark]](https://dark.ski/)

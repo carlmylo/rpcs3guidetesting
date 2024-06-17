@@ -46,6 +46,10 @@ If you want to copy Fortnite Festival's default bindings, you can use this as re
 
 ![Controller](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/instruments/cont/pckeyboardcontroller.png "Controller") 
 
-[[Back to Instrument Repo]](https://rb3pc.milohax.org/english/instrumentrepo/#instrument-list)
+<<<<<<< Updated upstream
+[[Back to Controllers]](https://rb3pc.milohax.org/english/controllers/)
+=======
+[[Back to Controllers]](https://rb3pc.milohax.org/english/controllers/)
+>>>>>>> Stashed changes
 
 Research by [[Linos]](https://www.youtube.com/@LinosMelendi)

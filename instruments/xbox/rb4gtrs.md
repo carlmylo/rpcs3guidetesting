@@ -52,7 +52,11 @@ You should get a notification from Windows that it's installing "Virtual Xbox 36
 
 ![Mapping](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/instruments/maps/360rbgtrsmapping.png "Mapping") 
 
-[[Back to Instrument Repo]](https://rb3pc.milohax.org/english/instrumentrepo/#instrument-list)
+<<<<<<< Updated upstream
+[[Back to Controllers]](https://rb3pc.milohax.org/english/controllers/)
+=======
+[[Back to Controllers]](https://rb3pc.milohax.org/english/controllers/)
+>>>>>>> Stashed changes
 
 
 

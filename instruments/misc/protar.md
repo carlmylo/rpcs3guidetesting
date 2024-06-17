@@ -1,5 +1,5 @@
 ---
-title: Xbox 360 Rock Band 3 Pro Guitars
+title: Rock Band 3 Pro Guitars
 author: Carl Mylo
 date: 
 category: Instruments
@@ -24,14 +24,10 @@ layout: post
 	* 🎸 **Change your “Emulated MIDI type” from “Keyboard” to “Guitar (17 Frets)” if you have a Mustang Pro Guitar, or “Guitar (22 Frets)” if you have a Squier Pro Guitar, then select your MIDI to USB interface in the drop-down menu next to it.**
 
 
-![Platform](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/instruments/plat/360.png "Platform") 
+![Platform](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/instruments/plat/midi.png "Platform") 
 
 ![Controller](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/instruments/cont/rbprotar.png "Controller") 
 
-<<<<<<< Updated upstream
 [[Back to Controllers]](https://rb3pc.milohax.org/english/controllers/)
-=======
-[[Back to Controllers]](https://rb3pc.milohax.org/english/controllers/)
->>>>>>> Stashed changes
 
 Implementation by [[Dark]](https://dark.ski/)

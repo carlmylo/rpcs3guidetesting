@@ -21,7 +21,11 @@ layout: post
 
 ![Mapping](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/instruments/maps/ps3ghdrmsmapping.png "Mapping") 
 
-[[Back to Instrument Repo]](https://rb3pc.milohax.org/english/instrumentrepo/#instrument-list)
+<<<<<<< Updated upstream
+[[Back to Controllers]](https://rb3pc.milohax.org/english/controllers/)
+=======
+[[Back to Controllers]](https://rb3pc.milohax.org/english/controllers/)
+>>>>>>> Stashed changes
 
 
 Mapped by [[GamerPerson22]](https://www.youtube.com/channel/UCC5SlXPlnlGwBG7w6mvfx8g)
