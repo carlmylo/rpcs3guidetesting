@@ -12,6 +12,12 @@ layout: post
 * This controller requires advanced configuration.
 * To play Guitar/Bass/Keys on a Controller (Padtar), you will need Rock Band 3 Deluxe so you can pick guitar parts.
 
+### Device Class
+
+| Device Class | Device Subtype |
+|:------------------:|:---------------------:|
+| Standard (Pad) | PS3 Controller |
+
 ### Guitar/Bass/Keys
 
 | **Xbox Controller**          | **Rock Band** |
