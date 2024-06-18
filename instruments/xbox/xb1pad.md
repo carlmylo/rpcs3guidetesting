@@ -32,6 +32,7 @@ layout: post
 | ![View Button](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/xbox/viw.png "View Button") | Overdrive |
 
 ### Drums
+
 | **Xbox Controller**          | **Rock Band** |
 |:------------------:|:---------------------:|
 | ![Left Trigger](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/xbox/lt.png "Left Trigger") | ![Kick Pedal](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/drms/rb/kp.png "Kick Pedal") |
@@ -48,9 +49,4 @@ layout: post
 
 ![Mapping](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/instruments/maps/xboxmapping.png "Mapping") 
 
-<<<<<<< Updated upstream
 [[Back to Controllers]](https://rb3pc.milohax.org/english/controllers/)
-
-=======
-[[Back to Controllers]](https://rb3pc.milohax.org/english/controllers/)
->>>>>>> Stashed changes
