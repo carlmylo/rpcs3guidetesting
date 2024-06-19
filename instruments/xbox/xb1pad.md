@@ -12,13 +12,17 @@ layout: post
 * This controller requires advanced configuration.
 * To play Guitar/Bass/Keys on a Controller (Padtar), you will need Rock Band 3 Deluxe so you can pick guitar parts.
 
-### Device Class
+## Pad Information
+
+| Handlers | Devices |
+|:------------------:|:---------------------:|
+| XInput | XInput Pad |
 
 | Device Class | Device Subtype |
 |:------------------:|:---------------------:|
 | Standard (Pad) | PS3 Controller |
 
-### Guitar/Bass/Keys
+## Guitar/Bass/Keys
 
 | **Xbox Controller**          | **Rock Band** |
 |:------------------:|:---------------------:|
@@ -31,7 +35,7 @@ layout: post
 | ![Left Stick](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/xbox/ls.png "Left Stick") | ![Whammy Bar](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/gtrs/wb.png "Whammy Bar") |
 | ![View Button](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/xbox/viw.png "View Button") | Overdrive |
 
-### Drums
+## Drums
 
 | **Xbox Controller**          | **Rock Band** |
 |:------------------:|:---------------------:|

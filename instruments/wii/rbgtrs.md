@@ -13,10 +13,17 @@ layout: post
 * The effects switch seems to reset to the middle when it's adjusted, so you'll be locked to flanger.
 	* It can be unmapped by removing the Right Stick: Up/Down mappings.
 
-Mappings: 
+## Pad Information
 
-**Handler:** MMJoystick
-**Device Class:** *Guitar | Rock Band*
+| Handlers | Devices |
+|:------------------:|:---------------------:|
+| XInput | XInput Pad |
+
+| Device Class | Device Subtype |
+|:------------------:|:---------------------:|
+| Guitar | Rock Band |
+
+## Mappings:
 
 | **RPCS3**          | **Controller** |
 |:------------------:|:---------------------:|
@@ -44,11 +51,7 @@ Mappings:
 
 ![Mapping](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/instruments/maps/wiirbgtrsmapping.png "Mapping") 
 
-<<<<<<< Updated upstream
 [[Back to Controllers]](https://rb3pc.milohax.org/english/controllers/)
-=======
-[[Back to Controllers]](https://rb3pc.milohax.org/english/controllers/)
->>>>>>> Stashed changes
 
 
 Mapped by [[Carl Mylo]](www.twitch.tv/carlmylo)
