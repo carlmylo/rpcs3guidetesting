@@ -43,8 +43,6 @@ layout: post
 | Select | ![Minus](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/360/back.png "Back") |
 | PS Button | ![Home](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/gtrs/home.png "Home") |
 
-
-
 ![Platform](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/instruments/plat/360.png "Platform") 
 
 ![Controller](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/instruments/cont/rbgtrscontroller.png "Controller") 
