@@ -44,6 +44,7 @@ layout: post
 
 
 ### Vocals
+
 | **PlayStation (DS3)** | **Use**                         | **Alt Use**         |
 |:---------------------:|:-------------------------------:|:-------------------:|
 | ![Left Stick](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/ps3/ls.png "Left Stick") | Navigation |
@@ -66,10 +67,6 @@ layout: post
 
 ![Mapping](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/instruments/maps/ps3ds3mapping.png "Mapping") 
 
-<<<<<<< Updated upstream
 [[Back to Controllers]](https://rb3pc.milohax.org/english/controllers/)
-=======
-[[Back to Controllers]](https://rb3pc.milohax.org/english/controllers/)
->>>>>>> Stashed changes
 
 Instructions by [SlothDemon](https://www.youtube.com/@SlothDemon1991)
