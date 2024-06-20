@@ -46,6 +46,22 @@ layout: post
 | ![A Button](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/xbox/a.png "A Button") | ![Green Pad](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/drms/rb/gp.png "Green Pad") |
 | ![D-Pad](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/xbox/dp.png "D-Pad") | Navigation |
 
+## Vocals
+
+| **Xbox One (XInput)** | **Use**                         | **Alt Use**         |
+|:---------------------:|:-------------------------------:|:-------------------:|
+| ![Left Stick](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/xbox/ls.png "Left Stick") | Navigation |
+| ![Left Stick](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/xbox/dp.png "D-Pad") | Navigation |
+| ![A Button](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/xbox/a.png "A Button") | Select                          |
+| ![B Button](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/xbox/b.png "B Button") | Back                            | Mic 3 Volume (Song) |
+| ![X Button](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/xbox/x.png "X Button") | Mic 1 Volume (Song) |
+| ![Y Button](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/xbox/y.png "Y Button") | View More Info (Library)        | Mic 2 Volume (Song) |
+| ![Options Button](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/xbox/opt.png "Options Button") | Options                         | Pause (Song)        |
+| ![View Button](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/xbox/viw.png "View Button") | Filters (Library)               | Overdrive (Song)    |
+| ![Left Bumper](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/xbox/lb.png "Left Bumper") | Guide Part Selection (Practice) |
+| ![Left Trigger](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/xbox/lt.png "Left Trigger") | Vocal Part Selection (Practice) |
+| ![Right Bumper](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/xbox/rb.png "Right Bumper") | Vocal Track Volume (Song)       |
+| ![Right Trigger](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/xbox/rt.png "Right Trigger") | Pitch Correction (Song)         |
 
 ![Platform](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/instruments/plat/xbx.png "Platform") 
 
