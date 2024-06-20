@@ -39,8 +39,8 @@ layout: post
 | Right Stick: <br/> Up *or* Down | ![Effects Switch](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/gtrs/fx.png "Effects Switch") |
 | L2 | ![Solo Buttons](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/gtrs/solo.png "Solo Buttons") |
 | R1 | ![Tilt](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/gtrs/ts.png "Tilt") |
-| Start | ![Plus](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/wii/plu.png "Plus") |
-| Select | ![Minus](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/wii/min.png "Minus") |
+| Start | ![Plus](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/360/start.png "Start") |
+| Select | ![Minus](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/360/back.png "Back") |
 | PS Button | ![Home](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/gtrs/home.png "Home") |
 
 
