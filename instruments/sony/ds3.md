@@ -14,13 +14,17 @@ layout: post
 * This setup has only been tested on DsHidMini. **AVOID ScpToolKit AS IT IS OUTDATED!**
 	* More information is available on [[RPCS3's Help page]](https://wiki.rpcs3.net/index.php?title=Help:Controller_Configuration#Using_DualShock_3_controller).
 
-### Device Class
+## Pad Information
+
+| Handlers | Devices |
+|:------------------:|:---------------------:|
+| DualShock 3 | DS3 Pad |
 
 | Device Class | Device Subtype |
 |:------------------:|:---------------------:|
 | Standard (Pad) | PS3 Controller |
 
-### Guitars/Bass/Keys
+## Guitars/Bass/Keys
 
 | **DS3**          | **Rock Band** |
 |:------------------:|:---------------------:|
@@ -32,7 +36,7 @@ layout: post
 | ![Left Stick](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/ps4/ls.png "Left Stick") | ![Whammy Bar](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/gtrs/wb.png "Whammy Bar") |
 | ![Select Button](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/ps3/sel.png "Select Button") | Overdrive |
 
-### Drums
+## Drums
 
 | **DS3**          | **Rock Band** |
 |:------------------:|:---------------------:|
@@ -43,7 +47,7 @@ layout: post
 | ![Cross Button](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/ps4/x.png "Cross Button") | ![Green Pad](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/drms/rb/gp.png "Green Pad") |
 
 
-### Vocals
+## Vocals
 
 | **PlayStation (DS3)** | **Use**                         | **Alt Use**         |
 |:---------------------:|:-------------------------------:|:-------------------:|
