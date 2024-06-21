@@ -33,7 +33,7 @@ layout: post
 | Square | ![Blue Fret](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/drms/gh/bp.png "Blue Fret") |
 | Triangle | ![Yellow Fret](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/drms/gh/yc.png "Yellow Fret") |
 | L1 | ![Orange Fret](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/drms/gh/oc.png "Orange Fret") |
-| D-Pad | ![Strumbar Up](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/drms/gh/sbu.png "Strumbar Up") |
+| D-Pad | ![D-Pad](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/360/dp.png "D-Pad") |
 | Start | ![Plus](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/360/start.png "Start") |
 | Select | ![Minus](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/360/back.png "Back") |
 | PS Button | ![Home](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/360/home.png "Home") |
