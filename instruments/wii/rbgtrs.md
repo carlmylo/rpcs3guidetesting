@@ -17,7 +17,7 @@ layout: post
 
 | Handlers | Devices |
 |:------------------:|:---------------------:|
-| XInput | XInput Pad |
+| MMJoystick | Joystick |
 
 | Device Class | Device Subtype |
 |:------------------:|:---------------------:|
@@ -44,7 +44,6 @@ layout: post
 | Select | ![Minus](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/wii/min.png "Minus") |
 | PS Button | ![Home](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/gtrs/home.png "Home") |
 
-  
 ![Platform](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/instruments/plat/wii.png "Platform") 
 
 ![Controller](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/instruments/cont/rbgtrscontroller.png "Controller") 
