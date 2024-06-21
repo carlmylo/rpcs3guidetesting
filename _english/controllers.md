@@ -97,7 +97,7 @@ Below is a chart of instrumenent controllers that have been tested and verified 
 
 > ##### WARNING
 >
-> * _Connecting **three or more PlayStation 3 Rock Band instruments** (drums, keyboard, guitar) may cause issues with instrument detection. This **only** happens with PlayStation 3 Rock Band instruments and only if they're all plugged in at the same time._
+> _Connecting **three or more PlayStation 3 Rock Band instruments** (drums, keyboard, guitar) may cause issues with instrument detection. This **only** happens with PlayStation 3 Rock Band instruments and only if they're all plugged in at the same time._
 {: .block-warning  }
 
 
