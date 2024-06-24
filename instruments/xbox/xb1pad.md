@@ -9,8 +9,8 @@ layout: post
 ## NOTES:
 
 * There is no binding file as all controls are default.
-* This controller requires advanced configuration.
-* To play Guitar/Bass/Keys on a Controller (Padtar), you will need Rock Band 3 Deluxe so you can pick guitar parts.
+* To play Guitar/Bass/Keys on a Controller (Padtar), you will need Rock Band 3 Deluxe so you can pick them.
+	- Additionally you can configure the layout within Rock Band 3 Deluxe's Advanced settings in-game.
 
 ## Pad Information
 
@@ -24,7 +24,7 @@ layout: post
 
 ## Guitar/Bass/Keys
 
-| **Xbox Controller**          | **Rock Band** |
+| **Xbox One/Series**          | **Rock Band** |
 |:------------------:|:---------------------:|
 | ![Left Trigger](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/xbox/lt.png "Left Trigger") | ![Green Fret](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/gtrs/gf.png "Green Fret") |
 | ![Left Bumper](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/xbox/lb.png "Left Bumper") | ![Red Fret](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/gtrs/rf.png "Red Fret") |
@@ -37,7 +37,7 @@ layout: post
 
 ## Drums
 
-| **Xbox Controller**          | **Rock Band** |
+| **Xbox One/Series**          | **Rock Band** |
 |:------------------:|:---------------------:|
 | ![Left Trigger](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/xbox/lt.png "Left Trigger") | ![Kick Pedal](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/drms/rb/kp.png "Kick Pedal") |
 | ![Left Bumper](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/xbox/lb.png "Left Bumper") | ![Red Pad](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/drms/rb/rp.png "Red Pad") |
@@ -48,7 +48,7 @@ layout: post
 
 ## Vocals
 
-| **Xbox One (XInput)** | **Use**                         | **Alt Use**         |
+| **Xbox One/Series** | **Use**                         | **Alt Use**         |
 |:---------------------:|:-------------------------------:|:-------------------:|
 | ![Left Stick](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/xbox/ls.png "Left Stick") | Navigation |
 | ![Left Stick](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/xbox/dp.png "D-Pad") | Navigation |
