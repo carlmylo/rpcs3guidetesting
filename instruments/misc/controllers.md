@@ -8,13 +8,15 @@ layout: post
 
 ## NOTES:
 
-* This is for unknown controllers.
-* You may have to use try different handlers until your controller is detected.
+* This is for unknown controllers. You may have to use try different handlers until your controller is detected.
+* To play Guitar/Bass/Keys on a Controller (Padtar), you will need Rock Band 3 Deluxe so you can pick them.
+	- Additionally you can configure the layout within Rock Band 3 Deluxe's Advanced settings in-game.
 
-### Device Class
+## Pad Information
 
-| Standard (Pad) | PS3 Controller |
+| Device Class | Device Subtype |
 |:------------------:|:---------------------:|
+| Standard (Pad) | PS3 Controller |
 
 ### Guitars/Bass/Keys
 
