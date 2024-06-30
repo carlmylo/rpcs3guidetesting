@@ -31,10 +31,10 @@ Just about every single microphone has issues, **except the Clear Microphone**. 
 | ![A screenshot of Rock Band 3, with a character showing the Mandana haircut.](https://raw.githubusercontent.com/carlmylo/rpcs3guidetesting/main/assets/images/trbl/hairs/masc/hair-Mandana.png "Mandana") | Mandana |
 | ![A screenshot of Rock Band 3, with a character showing the Messy Mop haircut.](https://raw.githubusercontent.com/carlmylo/rpcs3guidetesting/main/assets/images/trbl/hairs/masc/hair-Messy-Mop.png "Messy Mop") | Messy Mop |
 | ![A screenshot of Rock Band 3, with a character showing the Most Likely to Recede haircut.](https://raw.githubusercontent.com/carlmylo/rpcs3guidetesting/main/assets/images/trbl/hairs/masc/hair-Most-Likely-to-Recede.png "Most Likely to Recede") | Most Likely to Recede |
-| ![A screenshot of Rock Band 3, with a character showing the Short Spikes haircut.](https://raw.githubusercontent.com/carlmylo/rpcs3guidetesting/main/assets/images/trbl/hairs/masc/hair-Short-Spikes.png "Short Spikes") | Short Spikes |
-| ![A screenshot of Rock Band 3, with a character showing the Sleek Mop haircut.](https://raw.githubusercontent.com/carlmylo/rpcs3guidetesting/main/assets/images/trbl/hairs/masc/hair-Sleek-Mop.png "Sleek Mop") | Sleek Mop |
 | ![A screenshot of Rock Band 3, with a character showing the The Natural haircut.](https://raw.githubusercontent.com/carlmylo/rpcs3guidetesting/main/assets/images/trbl/hairs/masc/hair-The-Natural.png "The Natural") | The Natural |
 | ![A screenshot of Rock Band 3, with a character showing the The Quill Pig haircut.](https://raw.githubusercontent.com/carlmylo/rpcs3guidetesting/main/assets/images/trbl/hairs/masc/hair-The-Quill-Pig.png "The Quill Pig") | The Quill Pig |
+| ![A screenshot of Rock Band 3, with a character showing the Short Spikes haircut.](https://raw.githubusercontent.com/carlmylo/rpcs3guidetesting/main/assets/images/trbl/hairs/masc/hair-Short-Spikes.png "Short Spikes") | Short Spikes |
+| ![A screenshot of Rock Band 3, with a character showing the Sleek Mop haircut.](https://raw.githubusercontent.com/carlmylo/rpcs3guidetesting/main/assets/images/trbl/hairs/masc/hair-Sleek-Mop.png "Sleek Mop") | Sleek Mop |
 | ![A screenshot of Rock Band 3, with a character showing the Totally Generic haircut.](https://raw.githubusercontent.com/carlmylo/rpcs3guidetesting/main/assets/images/trbl/hairs/masc/hair-Totally-Generic.png "Totally Generic") | Totally Generic |
 
 
