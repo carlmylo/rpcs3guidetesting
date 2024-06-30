@@ -25,7 +25,7 @@ For reference, these are the default bindings:
 
 ## Guitars/Bass/Keys
 
-| **Keyboard**          | **RPCS3**          | **Guitars/Keys/Drums** |
+| **Keyboard**          | **RPCS3**          | **Guitars/Bass/Keys** |
 |:------------------:|:------------------:|:---------------------:|
 | Q | L1 | ![Green Fret](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/gtrs/gf.png "Green Fret") |
 | R | L2 | ![Red Fret](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/gtrs/rf.png "Red Fret") |
@@ -80,7 +80,7 @@ If you want to copy Fortnite Festival's default bindings, you can use this as re
 |:------------------:|:---------------------:|
 | Guitar | Guitar Hero |
 
-| **Keyboard**          | **RPCS3**          | **Guitars/Keys/Drums** |
+| **Keyboard** | **RPCS3** | **Guitars/Bass/Keys** |
 |:------------------:|:------------------:|:---------------------:|
 | 1 | Cross | ![Green Fret](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/gtrs/gf.png "Green Fret") |
 | 2 | Circle | ![Red Fret](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/gtrs/rf.png "Red Fret") |
@@ -105,10 +105,19 @@ If you want to copy Fortnite Festival's default bindings, you can use this as re
 |:------------------:|:---------------------:|
 | Drum | Rock Band Pro |
 
-| **RPCS3**          | **Keyboard** |
-|:------------------:|:---------------------:|
-| D | L1 |
-| Up/Down/Left/Right | ![D-Pad](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/ps4/dp.png "D-Pad") |
+| **Keyboard** | **RPCS3** | **Drums** |
+|:--------:|:-------------------:|:-----------------:|
+| `A` | Circle | ![Red Pad](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/drms/rb/rp.png "Red Pad") |
+| `S` | Triangle | ![Yellow Pad](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/drms/rb/yp.png "Yellow Pad") |
+| `O` | Square | ![Blue Pad](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/drms/rb/bp.png "Blue Pad") |
+| `P` | Cross | ![Green Pad](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/drms/rb/gp.png "Green Pad") |
+| `W` | Triangle | ![Yellow Cymbal](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/drms/rb/yc.png "Yellow Cymbal") |
+| `0` | Square | ![Blue Cymbal](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/drms/rb/bc.png "Blue Cymbal") |
+| `-` | Cross | ![Green Cymbal](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/drms/rb/gc.png "Green Cymbal") |
+| `,`, `Space` | Kick Pedal 1 | ![Foot Pedal](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/drms/rb/kp.png "Foot Pedal") |
+| `C` | Kick Pedal 2 | ![Foot Pedal](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/drms/rb/kp.png "Foot Pedal") |
+| `A`, `O`, `P`, `S` | L3 | Pad Modifier |
+| `'A'`, `0`, `W` | R3 | Cymbal Modifier |
 
 ![Platform](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/instruments/plat/pc.png "Platform") 
 
@@ -118,20 +127,4 @@ If you want to copy Fortnite Festival's default bindings, you can use this as re
 
 Research by [[Linos]](https://www.youtube.com/@LinosMelendi)
 
-Alternative mapping schemes by [Ashun], and [[Doom05]](https://www.youtube.com/channel/UCZBzTTsPrK_gXF0ZvHkR3jA)
-
-2do
-P = Green Pad
-A = Red Pad
-O = Blue Pad
-S = Yellow Pad
-- = Green Cymbal
-0 = Blue Cymbal
-W = Yellow Cymbal
-,, Space = Foot Pedal 1
-C = Foot Pedal 2
-Up, Down, Left, Right = Directions
-W = Up
-Down Arrow = Down
-A, O, P S = Pads
--, 0, W = Cymbals
+Alternative mapping schemes by [[Ashun]](https://www.twitch.tv/ashun_), and [[Doom05]](https://www.youtube.com/channel/UCZBzTTsPrK_gXF0ZvHkR3jA)
