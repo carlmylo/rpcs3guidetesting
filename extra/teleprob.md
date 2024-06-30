@@ -1,12 +1,12 @@
 ---
-title: Bad Hair
+title: Teleporting Items
 author: Carl Mylo
 date: 
 category: Troubleshooting
 layout: post
 ---
 
-These are hairstyles/hats which are documented to have issues with visual glitches. Avoid these haircuts if you don't want to have visual teleporting glitches.
+These are equipable items which are documented to have issues with visual glitches. Avoid these items if you don't want to have visual teleporting glitches.
 
 # Masculine
 ## Hair
@@ -72,11 +72,19 @@ These are hairstyles/hats which are documented to have issues with visual glitch
 | **Image**          | **Name** |
 |:------------------:|:---------------------:|
 | ![A screenshot of Rock Band 3, with a character showing the Angel of the Mourning hat.](https://raw.githubusercontent.com/carlmylo/rpcs3guidetesting/main/assets/images/trbl/hairs/fem/hats-Angel-of-the-Mourning.png "Angel of the Mourning") | Angel of the Mourning |
-| ![A screenshot of Rock Band 3, with a character showing the Hungry Like the Wolf hat.](https://raw.githubusercontent.com/carlmylo/rpcs3guidetesting/main/assets/images/trbl/hairs/fem/hats-Hungry-Like-the-Wolf.png "Hungry Like the Wolf") | Hungry Like the Wolf |
-| ![A screenshot of Rock Band 3, with a character showing the Pickelhaube hat.](https://raw.githubusercontent.com/carlmylo/rpcs3guidetesting/main/assets/images/trbl/hairs/fem/hats-Pickelhaube.png "Pickelhaube") | Pickelhaube |
-| ![A screenshot of Rock Band 3, with a character showing the Metal Outlaw /w Short Hair hat.](https://raw.githubusercontent.com/carlmylo/rpcs3guidetesting/main/assets/images/trbl/hairs/fem/hats-Metal-Outlaw-w_-Short-Hair.png "Metal Outlaw /w Short Hair") | Metal Outlaw /w Short Hair |
 | ![A screenshot of Rock Band 3, with a character showing the G.I. Jane hat.](https://raw.githubusercontent.com/carlmylo/rpcs3guidetesting/main/assets/images/trbl/hairs/fem/hats-G.I.-Jane.png "G.I. Jane") | G.I. Jane |
-| ![A screenshot of Rock Band 3, with a character showing the Super Visor hat.](https://raw.githubusercontent.com/carlmylo/rpcs3guidetesting/main/assets/images/trbl/hairs/fem/hats-Super-Visor.png "Super Visor") | Super Visor |
-| ![A screenshot of Rock Band 3, with a character showing the Knit Cap hat.](https://raw.githubusercontent.com/carlmylo/rpcs3guidetesting/main/assets/images/trbl/hairs/fem/hats-Knit-Cap.png "Knit Cap") | Knit Cap |
-| ![A screenshot of Rock Band 3, with a character showing the Pardon Your French hat.](https://raw.githubusercontent.com/carlmylo/rpcs3guidetesting/main/assets/images/trbl/hairs/fem/hats-Pardon-Your-French.png "Pardon Your French") | Pardon Your French |
 | ![A screenshot of Rock Band 3, with a character showing the Holy Bowler /w Short Hair hat.](https://raw.githubusercontent.com/carlmylo/rpcs3guidetesting/main/assets/images/trbl/hairs/fem/hats-Holy-Bowler-w_-Short-Hair.png "Holy Bowler /w Short Hair") | Holy Bowler /w Short Hair |
+| ![A screenshot of Rock Band 3, with a character showing the Hungry Like the Wolf hat.](https://raw.githubusercontent.com/carlmylo/rpcs3guidetesting/main/assets/images/trbl/hairs/fem/hats-Hungry-Like-the-Wolf.png "Hungry Like the Wolf") | Hungry Like the Wolf |
+| ![A screenshot of Rock Band 3, with a character showing the Knit Cap hat.](https://raw.githubusercontent.com/carlmylo/rpcs3guidetesting/main/assets/images/trbl/hairs/fem/hats-Knit-Cap.png "Knit Cap") | Knit Cap |
+| ![A screenshot of Rock Band 3, with a character showing the Metal Outlaw /w Short Hair hat.](https://raw.githubusercontent.com/carlmylo/rpcs3guidetesting/main/assets/images/trbl/hairs/fem/hats-Metal-Outlaw-w_-Short-Hair.png "Metal Outlaw /w Short Hair") | Metal Outlaw /w Short Hair |
+| ![A screenshot of Rock Band 3, with a character showing the Pardon Your French hat.](https://raw.githubusercontent.com/carlmylo/rpcs3guidetesting/main/assets/images/trbl/hairs/fem/hats-Pardon-Your-French.png "Pardon Your French") | Pardon Your French |
+| ![A screenshot of Rock Band 3, with a character showing the Pickelhaube hat.](https://raw.githubusercontent.com/carlmylo/rpcs3guidetesting/main/assets/images/trbl/hairs/fem/hats-Pickelhaube.png "Pickelhaube") | Pickelhaube |
+| ![A screenshot of Rock Band 3, with a character showing the Super Visor hat.](https://raw.githubusercontent.com/carlmylo/rpcs3guidetesting/main/assets/images/trbl/hairs/fem/hats-Super-Visor.png "Super Visor") | Super Visor |
+
+## Microphones
+
+Just about every single microphone has issues, **besides the Clear Microphone**. This is the **only** microphone you want to use if you want to avoid teleporting.
+
+| **Image**          | **Name** |
+|:------------------:|:---------------------:|
+| ![A screenshot of Rock Band 3, with a holding the Clear Microphone.](https://raw.githubusercontent.com/carlmylo/rpcs3guidetesting/main/assets/images/trbl/clearmic.png "Clear Microphone") | Clear Microphone |
