@@ -1,4 +1,3 @@
-
 ---
 title: MIDI Keyboard
 author: Carl Mylo
