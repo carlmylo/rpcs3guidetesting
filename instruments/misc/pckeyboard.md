@@ -44,9 +44,8 @@ For reference, these are the default bindings:
 | R | L2 | ![Foot Pedal](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/drms/rb/kp.png "Foot Pedal") |
 | E | R1 | ![Yellow Pad](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/drms/rb/yp.png "Yellow Pad") |
 | T | R2 | ![Blue Pad](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/drms/rb/bp.png "Blue Pad") |
-| X | Cross | | ![Green Pad](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/drms/rb/gp.png "Green Pad") |
+| X | Cross | ![Green Pad](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/drms/rb/gp.png "Green Pad") |
 | Up/Down/Left/Right | ![D-Pad](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/ps4/dp.png "D-Pad") | Navigation |
-| W/A/S/D | ![Left Stick](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/ps4/ls.png "Left Stick") | ![Whammy Bar](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/gtrs/wb.png "Whammy Bar") |
 
 ![Mapping](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/instruments/maps/pckeyboardmapping.png "Mapping") 
 
@@ -114,8 +113,8 @@ If you want to copy Fortnite Festival's default bindings, you can use this as re
 | `W` | Triangle | ![Yellow Cymbal](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/drms/rb/yc.png "Yellow Cymbal") |
 | `0` | Square | ![Blue Cymbal](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/drms/rb/bc.png "Blue Cymbal") |
 | `-` | Cross | ![Green Cymbal](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/drms/rb/gc.png "Green Cymbal") |
-| `,`, `Space` | Kick Pedal 1 | ![Foot Pedal](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/drms/rb/kp.png "Foot Pedal") |
-| `C` | Kick Pedal 2 | ![Foot Pedal](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/drms/rb/kp.png "Foot Pedal") |
+| `,`, `Space` | L1 | ![Foot Pedal](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/drms/rb/kp.png "Foot Pedal") |
+| `C` | R1 | ![Foot Pedal](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/drms/rb/kp.png "Foot Pedal") |
 | `A`, `O`, `P`, `S` | L3 | Pad Modifier |
 | `A`, `0`, `W` | R3 | Cymbal Modifier |
 
