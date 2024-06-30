@@ -8,6 +8,7 @@ layout: post
 
 # Men
 ## Hair
+
 | **Image**          | **Name** |
 |:------------------:|:---------------------:|
 | ![A screenshot of Rock Band 3, with a character showing the Afro haircut.](https://raw.githubusercontent.com/carlmylo/rpcs3guidetesting/main/assets/images/trbl/hairs/men/hair-Afro.png "Afro") | Afro |
@@ -28,6 +29,7 @@ layout: post
 
 
 ## Hats
+
 * ![A screenshot of Rock Band 3, with a character showing the Afro haircut.](https://raw.githubusercontent.com/carlmylo/rpcs3guidetesting/main/assets/images/trbl/hairs/men/Afro.png "Afro")
 * ![A screenshot of Rock Band 3, with a character showing the Afro haircut.](https://raw.githubusercontent.com/carlmylo/rpcs3guidetesting/main/assets/images/trbl/hairs/men/Afro.png "Afro")
 * ![A screenshot of Rock Band 3, with a character showing the Afro haircut.](https://raw.githubusercontent.com/carlmylo/rpcs3guidetesting/main/assets/images/trbl/hairs/men/Afro.png "Afro")
