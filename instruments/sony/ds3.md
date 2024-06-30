@@ -51,18 +51,18 @@ layout: post
 
 | **PlayStation (DS3)** | **Use**                         | **Alt Use**         |
 |:---------------------:|:-------------------------------:|:-------------------:|
-| ![Left Stick](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/ps3/ls.png "Left Stick") | Navigation |
-| ![D-Pad](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/ps3/dp.png "D-Pad") | Navigation |
-| ![Cross Button](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/ps3/x.png "Cross Button") | Select                          |
-| ![Circle Button](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/ps3/o.png "Circle Button") | Back                            | Mic 3 Volume (Song) |
-| ![Square Button](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/ps3/s.png "Square Button") | Mic 1 Volume (Song) |
-| ![Triangle Button](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/ps3/t.png "Triangle Button") | View More Info (Library)        | Mic 2 Volume (Song) |
-| ![Start Button](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/ps3/sta.png "Start Button") | Options                         | Pause (Song)        |
-| ![Select Button](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/ps3/sel.png "Select Button") | Filters (Library)               | Overdrive (Song)    |
-| ![L1 Button](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/ps3/l1.png "L1 Button") | Guide Part Selection (Practice) |
-| ![L2 Trigger](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/ps3/l2.png "L2 Trigger") | Vocal Part Selection (Practice) |
-| ![R1 Button](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/ps3/r1.png "R1 Button") | Vocal Track Volume (Song)       |
-| ![R2 Trigger](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/ps3/r2.png "R2 Trigger") | Pitch Correction (Song)         |
+| ![Left Stick](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/ps3/ls.png "Left Stick") | Navigation | |
+| ![D-Pad](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/ps3/dp.png "D-Pad") | Navigation | |
+| ![Cross Button](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/ps3/x.png "Cross Button") | Select | |
+| ![Circle Button](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/ps3/o.png "Circle Button") | Back | Mic 3 Volume (Song) |
+| ![Square Button](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/ps3/s.png "Square Button") | Mic 1 Volume (Song) | |
+| ![Triangle Button](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/ps3/t.png "Triangle Button") | View More Info (Library) | Mic 2 Volume (Song) |
+| ![Start Button](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/ps3/sta.png "Start Button") | Options | Pause (Song) |
+| ![Select Button](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/ps3/sel.png "Select Button") | Filters (Library) | Overdrive (Song) |
+| ![L1 Button](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/ps3/l1.png "L1 Button") | Guide Part Selection (Practice) | |
+| ![L2 Trigger](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/ps3/l2.png "L2 Trigger") | Vocal Part Selection (Practice) | |
+| ![R1 Button](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/ps3/r1.png "R1 Button") | Vocal Track Volume (Song) | |
+| ![R2 Trigger](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/ps3/r2.png "R2 Trigger") | Pitch Correction (Song) | |
 
 
 ![Platform](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/instruments/plat/ps3.png "Platform") 
