@@ -1,8 +1,8 @@
 ---
-title: Troubleshooting - Problematic Hair
+title: Bad Hair
 author: Carl Mylo
 date: 
-category: English
+category: Troubleshooting
 layout: post
 ---
 
