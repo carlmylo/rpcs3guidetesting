@@ -2,7 +2,7 @@
 title: Teleporting Items
 author: Carl Mylo
 date: 
-category: Troubleshooting
+category: english/troubleshooting
 layout: post
 ---
 
