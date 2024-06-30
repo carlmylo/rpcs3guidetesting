@@ -40,6 +40,23 @@ layout: post
 | R2 | ![Blue Pad](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/drms/rb/bp.png "Blue Pad") |
 | Cross | ![Green Pad](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/drms/rb/gp.png "Green Pad") |
 
+### Vocals
+
+| **PlayStation (DS3)** | **Use** | **Alt Use** |
+|:---------------------:|:-------------------------------:|:-------------------:|
+| Left Stick: <br> Up/Down/Left/Right | Navigation | |
+| D-Pad: <br> Up/Down/Left/Right | Navigation | |
+| Cross | Select | |
+| Circle | Back | Mic 3 Volume (Song) |
+| Square | Mic 1 Volume (Song) | |
+| Triangle | View More Info (Library) | Mic 2 Volume (Song) |
+| Start | Options | Pause (Song) |
+| Select | Filters (Library) | Overdrive (Song) |
+| L1 | Guide Part Selection (Practice) | |
+| L2 | Vocal Part Selection (Practice) | |
+| R1 | Vocal Track Volume (Song) | |
+| R2 | Pitch Correction (Song) | |
+
 
 
 ![Platform](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/instruments/plat/myst.png "Platform") 
