@@ -8,7 +8,7 @@ layout: post
 
 # Drums
 
-* If you're using PS3 (Guitar Hero), Wii, or Xbox 360 drum controllers, set the "Handlers" option to "MMJoyStick."
+* If you're using PS3 (Guitar Hero), Wii, or Xbox 360 drum based controllers, set the "Handlers" option to "MMJoyStick."
 * If you're using a Xbox 360 MIDI Pro Adapter for drums, set the "Handlers" option to "XInput."
 
 Make sure you **set "Device Class" to "Drum".**
