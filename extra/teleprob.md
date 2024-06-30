@@ -83,7 +83,7 @@ These are equipable items which are documented to have issues with visual glitch
 
 ## Microphones
 
-Just about every single microphone has issues, **besides the Clear Microphone**. This is the **only** microphone you want to use if you want to avoid teleporting.
+Just about every single microphone has issues, **except the Clear Microphone**. This is the **only** microphone you want to use if you want to avoid teleporting.
 
 | **Image**          | **Name** |
 |:------------------:|:---------------------:|
