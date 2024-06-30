@@ -117,7 +117,7 @@ If you want to copy Fortnite Festival's default bindings, you can use this as re
 | `,`, `Space` | Kick Pedal 1 | ![Foot Pedal](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/drms/rb/kp.png "Foot Pedal") |
 | `C` | Kick Pedal 2 | ![Foot Pedal](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/drms/rb/kp.png "Foot Pedal") |
 | `A`, `O`, `P`, `S` | L3 | Pad Modifier |
-| `'A'`, `0`, `W` | R3 | Cymbal Modifier |
+| `A`, `0`, `W` | R3 | Cymbal Modifier |
 
 ![Platform](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/instruments/plat/pc.png "Platform") 
 
