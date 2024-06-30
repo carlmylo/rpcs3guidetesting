@@ -11,10 +11,6 @@ layout: post
 * Requires an electronic MIDI Drum Kit connected via USB or a MIDI to USB interface.
 	* **Your MIDI Drum Kit needs to be set to MIDI Channel 10 and standard GM mapping.**  These should be default settings but consult the manual for your kit to make sure.
 * Requires the latest version of [[RPCS3]](https://rpcs3.net/download)
-* By default:
-	* START: Hihat Pedal, Hihat Pedal, Hihat Pedal, Snare
-	* SELECT: Hihat Pedal, Hihat Pedal, Hihat Pedal, Snare Rim
-	* Song select shortcuts: Hihat Pedal, Hihat Pedal, Hihat Pedal, Kick
 
 ## Instructions:
 
@@ -26,9 +22,29 @@ layout: post
 * ![A tan square with a solid outline](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/cust/smalltan.png "Tan Square") : 
 	* 🥁 **Change your "Emulated MIDI type" from "Keyboard" to "Drums", then select your MIDI Electronic Drum Kit or MIDI to USB interface in the drop-down menu next to it**.
 
+## Mapping
+By default:
+* START: Hihat Pedal, Hihat Pedal, Hihat Pedal, Snare
+* SELECT: Hihat Pedal, Hihat Pedal, Hihat Pedal, Snare Rim
+* Song select shortcuts: Hihat Pedal, Hihat Pedal, Hihat Pedal, Kick
+
 ### Additional Setup:
 
 You can adjust a variety of options in the `rb3drums.yml` file, located within the `config` folder inside your RPCS3 installation folder.
+Below are the defaults and what each option does.
+
+`Pulse width ms: 30` = How long each drum pad hit is "held" for. **You should leave this alone.**
+`Minimum velocity: 10` = The minimum velocity (how hard a pad is hit) needed for a signal to be sent. Anything below this number will not send a signal.
+`Combo window in milliseconds: 2000`  = Determines how long you have to press the Combos for Start, Select, and Kick Hold.
+`Stagger cymbal hits: true` = If you hit two cymbals at the same time, one will be delayed by the "Pulse width ms" above. **You should leave this alone.**
+`Midi id to note override: ""` = Allows you to remap what each MIDI note does. Read [[Remapping]](#remapping) for more information.
+`Combo Start: HihatPedal,HihatPedal,HihatPedal,Snare` = Defines what combo will trigger the Start button.
+`Combo Select: HihatPedal,HihatPedal,HihatPedal,SnareRim` = Defines what combo will trigger the Select button.
+`Combo Toggle Hold Kick: HihatPedal,HihatPedal,HihatPedal,Kick` = Defines what combo will trigger the Hold Kick action, for library navigation.
+`Midi CC status: 176` = Defines the status byte. Can be notated as `0xB0` as well. **You should leave this alone.**
+`Midi CC control number: 4` = Defines the number of the Continuous Controller (CC), which acts as the hi-hat pedal. **You should leave this alone.**
+`Midi CC threshold: 64` = Defines the middle point the hi-pedal pedal goes from closed to open.
+`Midi CC invert threshold: false` = Inverts the range for the hi-hat pedal, mentioned above.
 
 #### Remapping
 If your drum kits have incompatible mapping, you can remap using `Midi id to note override: ""` with the corrected notes.
@@ -58,7 +74,7 @@ Examples of common replacements:
 
 In `rb3drums.yml`, you will find `Combo Start`, `Combo Select`, `Combo Toggle Hold Kick`, which allow you to customize the combos to activate their respective buttons.
 
-### Mapping
+### Default Mapping
 
 | **MIDI Note#** | **Trigger Type** | **In-Game Action** |
 |:--------:|:-------------------:|:-----------------:|
@@ -81,3 +97,4 @@ In `rb3drums.yml`, you will find `Combo Start`, `Combo Select`, `Combo Toggle Ho
 
 
 Research by [[Linos]](https://www.youtube.com/@LinosMelendi)
+Implemented by [[nswarm]](https://github.com/nswarm)
