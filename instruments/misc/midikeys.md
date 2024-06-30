@@ -1,3 +1,4 @@
+
 ---
 title: MIDI Keyboard
 author: Carl Mylo
@@ -78,7 +79,7 @@ Extract the `.zip` archive somewhere you can easily find it. It was extracted to
 
 Go to where you extracted FreePiano and run the `freepiano` executable.
 
-![A screenshot of loopMIDI's installer.](https://raw.githubusercontent.com/carlmylo/rpcs3guidetesting/main/assets/images/instruments/midictrlfreepnodir.png "freepiano.exe")
+![A screenshot showing the FreePiano executable highlighted.](https://raw.githubusercontent.com/carlmylo/rpcs3guidetesting/main/assets/images/instruments/midictrlfreepnodir.png "freepiano.exe")
 
 Assign the keys to your liking as shown in the [**[#mapping]**](#mapping) section above.
 
@@ -86,11 +87,11 @@ There is also a premade profile if you'd like, which you can [**[download here]*
 
 To use the preset, place the `rb3gamekeys.map` file in the `keymap` folder located where you extracted FreePiano.
 
-![A screenshot of loopMIDI's installer.](https://raw.githubusercontent.com/carlmylo/rpcs3guidetesting/main/assets/images/instruments/midictrlfreepnopreset.png "keymap")
+![A screenshot of the profile, named rb3gamekeys.map, in the keymap folder, highlighted.](https://raw.githubusercontent.com/carlmylo/rpcs3guidetesting/main/assets/images/instruments/midictrlfreepnopreset.png "keymap")
 
 Select `rb3gamekeys.map` in the "Keymap" dropdown button to load the premade profile. Likewise, if you made your own profile or edited the premade profile, you can click on **Save** to save your profile.
 
-![A screenshot of loopMIDI's installer.](https://raw.githubusercontent.com/carlmylo/rpcs3guidetesting/main/assets/images/instruments/midictrlfreepnoselpres.png "rb3gamekeys.map")
+![A screenshot of FreePiano, with the rb3gamekeys.map profile selected.](https://raw.githubusercontent.com/carlmylo/rpcs3guidetesting/main/assets/images/instruments/midictrlfreepnoselpres.png "rb3gamekeys.map")
 
 The premade profile is mapped like this:
 
@@ -110,32 +111,32 @@ The premade profile is mapped like this:
 
 Once you are done mapping, click on "Instrument" at the top of Freepiano's window and select the "Gamepad" MIDI output, which you made with loopMIDI earlier.
 
-![A screenshot of loopMIDI's installer.](https://raw.githubusercontent.com/carlmylo/rpcs3guidetesting/main/assets/images/instruments/midictrlfreepnoout.png "Gamepad")
+![A screenshot of FreePiano's Instrument dropdown menu, with "Gamepad MIDI" selected.](https://raw.githubusercontent.com/carlmylo/rpcs3guidetesting/main/assets/images/instruments/midictrlfreepnoout.png "Gamepad")
 
 It's suggested you enable "Background input mode", located within the "Options" tab which is accessed by pressing the Wrench icon in the top right side of FreePiano.
 
-![A screenshot of loopMIDI's installer.](https://raw.githubusercontent.com/carlmylo/rpcs3guidetesting/main/assets/images/instruments/midictrlfreepnoback.png "Background input mode")
+![A screenshot of FreePiano, with the "Background input mode" enabled.](https://raw.githubusercontent.com/carlmylo/rpcs3guidetesting/main/assets/images/instruments/midictrlfreepnoback.png "Background input mode")
 
-Now, [[download MIDI-OX]](http://www.midiox.com/?http://www.midiox.com/moxdown.htm).
+Now, [[download MIDI-OX]](http://www.midiox.com/moxdown.htm).
 
-![A screenshot of loopMIDI's installer.](https://raw.githubusercontent.com/carlmylo/rpcs3guidetesting/main/assets/images/instruments/midictrlloopMIDIdl.png "loopMIDI Setup")
+![A screenshot of MIDI-OX's website, with the proper download highlighted in blue with a dotted outline.](https://raw.githubusercontent.com/carlmylo/rpcs3guidetesting/main/assets/images/instruments/midictrlmidioxdl.png "MIDI-OX 7.0.2")
 
 Install MIDI-OX.
 
-![A screenshot of loopMIDI's installer.](https://raw.githubusercontent.com/carlmylo/rpcs3guidetesting/main/assets/images/instruments/midictrlloopMIDIdl.png "loopMIDI Setup")
+![A screenshot of MIDI-OX's installer.](https://raw.githubusercontent.com/carlmylo/rpcs3guidetesting/main/assets/images/instruments/midictrlmidioxinst.png "MIDI-OX Setup Wizard")
 
 Open MIDI-OX then navigate to **Options > MIDI Devices**
 
-![A screenshot of loopMIDI's installer.](https://raw.githubusercontent.com/carlmylo/rpcs3guidetesting/main/assets/images/instruments/midictrlloopMIDIdl.png "loopMIDI Setup")
+![A screenshot of MIDI-OX, with the mouse hovering over the MIDI Devices menu, under the Options menu.](https://raw.githubusercontent.com/carlmylo/rpcs3guidetesting/main/assets/images/instruments/midictrlmidioxopts.png "Options > Midi Devices")
 
 In the MIDI Devices Menu, select your keyboard and the port you made in loopMIDI ("Gamepad") for FreePiano in the MIDI Inputs section.
 Select the other port you made in loopMIDI ("Pro Keys") in the MIDI Outputs. This will combine both MIDI inputs into a single output.
 
-![A screenshot of loopMIDI's installer.](https://raw.githubusercontent.com/carlmylo/rpcs3guidetesting/main/assets/images/instruments/midictrlloopMIDIdl.png "loopMIDI Setup")
+![A screenshot of MIDI-OX's MIDI Devices, with a keyboard and the Gamepad selected in the MIDI Inputs section and Pro Keys selected in the MIDI Outputs section.](https://raw.githubusercontent.com/carlmylo/rpcs3guidetesting/main/assets/images/instruments/midictrlmidioxcombo.png "MIDI Devices")
 
 Finally, in RPCS3, go to Rock Band 3's Custom Configuration then go to the I/O tab. Select the port that you selected as your output in MIDI-OX ("Pro Keys").
 
-![A screenshot of loopMIDI's installer.](https://raw.githubusercontent.com/carlmylo/rpcs3guidetesting/main/assets/images/instruments/midictrlloopMIDIdl.png "loopMIDI Setup")
+![A screenshot of Rock Band 3's I/O custom settings, showing Emulated MIDI Devices, device type, and device selection highlighted in tan with a solid outline. It is set to "Keyboard - Pro Keys 3"](https://raw.githubusercontent.com/carlmylo/rpcs3guidetesting/main/assets/images/instruments/midictrlrpcs3.png "Settings: [BLUS30463] Rock Band 3")
 
 That's it. Remember to close all **three different programs** when you're not using them because they may cause issues with certain shortcuts on Windows.
 You will have to reopen these programs every time you want to play.
