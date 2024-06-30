@@ -8,6 +8,14 @@ layout: post
 
 These are equipable items which are documented to have issues with visual glitches. Avoid these items if you don't want to have visual teleporting glitches.
 
+## Microphones
+
+Just about every single microphone has issues, **except the Clear Microphone**. This is the **only** microphone you want to use if you want to avoid teleporting.
+
+| **Image**          | **Name** |
+|:------------------:|:---------------------:|
+| ![A screenshot of Rock Band 3, with a holding the Clear Microphone.](https://raw.githubusercontent.com/carlmylo/rpcs3guidetesting/main/assets/images/trbl/clearmic.png "Clear Microphone") | Clear Microphone |
+
 # Masculine
 ## Hair
 
@@ -80,11 +88,3 @@ These are equipable items which are documented to have issues with visual glitch
 | ![A screenshot of Rock Band 3, with a character showing the Pardon Your French hat.](https://raw.githubusercontent.com/carlmylo/rpcs3guidetesting/main/assets/images/trbl/hairs/fem/hats-Pardon-Your-French.png "Pardon Your French") | Pardon Your French |
 | ![A screenshot of Rock Band 3, with a character showing the Pickelhaube hat.](https://raw.githubusercontent.com/carlmylo/rpcs3guidetesting/main/assets/images/trbl/hairs/fem/hats-Pickelhaube.png "Pickelhaube") | Pickelhaube |
 | ![A screenshot of Rock Band 3, with a character showing the Super Visor hat.](https://raw.githubusercontent.com/carlmylo/rpcs3guidetesting/main/assets/images/trbl/hairs/fem/hats-Super-Visor.png "Super Visor") | Super Visor |
-
-## Microphones
-
-Just about every single microphone has issues, **except the Clear Microphone**. This is the **only** microphone you want to use if you want to avoid teleporting.
-
-| **Image**          | **Name** |
-|:------------------:|:---------------------:|
-| ![A screenshot of Rock Band 3, with a holding the Clear Microphone.](https://raw.githubusercontent.com/carlmylo/rpcs3guidetesting/main/assets/images/trbl/clearmic.png "Clear Microphone") | Clear Microphone |
