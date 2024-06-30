@@ -6,6 +6,8 @@ category: Troubleshooting
 layout: post
 ---
 
+These are hairstyles/hats which are documented to have issues with visual glitches. Avoid these haircuts if you don't want to have visual teleporting glitches.
+
 # Men
 ## Hair
 
