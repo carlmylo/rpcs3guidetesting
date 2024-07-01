@@ -9,8 +9,8 @@ layout: post
 ## NOTES:
 
 * Requires an electronic MIDI Drum Kit connected via USB or a MIDI to USB interface.
-	* **Your MIDI Drum Kit needs to be set to MIDI Channel 10 and standard GM mapping.**  These should be default settings but consult the manual for your kit to make sure.
-* Requires the latest version of [[RPCS3]](https://rpcs3.net/download)
+	* **Your MIDI Drum Kit needs to be set to MIDI Channel 10 and standard GM mapping.**  These should be default settings but consult the manual for your MIDI Drum Kit to make sure.
+* D-Pad: Left and D-Pad: Right cannot be used. This makes slowing down practice mode and cycling through trainers impossible.
 
 ## Instructions:
 
@@ -20,7 +20,7 @@ layout: post
 
 ![A screenshot of Rock Band 3's I/O custom settings, showing Emulated MIDI Devices, device type, and device selection highlighted in tan with a solid outline.](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/cust/iod.png "I/O")
 * ![A tan square with a solid outline](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/cust/smalltan.png "Tan Square") : 
-	* 🥁 **Change your "Emulated MIDI type" from "Keyboard" to "Drums", then select your MIDI Electronic Drum Kit or MIDI to USB interface in the drop-down menu next to it**.
+	* 🥁 **Change your "Emulated MIDI type" from "Keyboard" to "Drums", then select your MIDI Drum Kit or MIDI to USB interface in the drop-down menu next to it**.
 
 ## Mapping
 By default:
@@ -47,7 +47,7 @@ Below are the defaults and what each option does.
 `Midi CC invert threshold: false` = Inverts the range for the hi-hat pedal, mentioned above.
 
 #### Remapping
-If your drum kits have incompatible mapping, you can remap using `Midi id to note override: ""` with the corrected notes.
+If your MIDI Drum Kit has incompatible mapping, you can remap using `Midi id to note override: ""` with the corrected notes.
 * To do this:
 	* Go to [MIDI Monitor](https://www.midimonitor.com/)
 	* Play the pad you want to replace to find its MIDI Note number ("Note #[number]").
