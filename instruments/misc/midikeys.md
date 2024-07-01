@@ -72,7 +72,7 @@ Add two new ports by clicking on the `+` button in the bottom. You should name t
 
 Now, [[the `.zip` archive that contains the win64 version of FreePiano]](https://freepiano.tiwb.com/en/).
 
-[![A screenshot of FreePiano's download page.](https://raw.githubusercontent.com/carlmylo/rpcs3guidetesting/main/assets/images/instruments/midictrlfreepnodl.png)](https://freepiano.tiwb.com/en/ "FreePiano | Advanced virtual MIDI keyboard")
+[![A screenshot of FreePiano's download page.](https://raw.githubusercontent.com/carlmylo/rpcs3guidetesting/main/assets/images/instruments/midictrlfreepnodl.png)](https://freepiano.tiwb.com/en "FreePiano | Advanced virtual MIDI keyboard")
 
 Extract the `.zip` archive somewhere you can easily find it. It was extracted to `C:\Games\freepiano` in this example.
 

@@ -52,5 +52,4 @@ layout: post
 
 [[Back to Controllers]](https://rb3pc.milohax.org/english/controllers/)
 
-
 Mapped by [[Carl Mylo]](www.twitch.tv/carlmylo)

@@ -22,20 +22,12 @@ layout: post
 6. Verify that Windows has detected the Roll Limitless adapter by searching for `joy.cpl` in the Start menu. It should show up in the list.
 7. If it shows up, it's ready to go. If not, make sure you're plugging it in while holding down the round Start button.
 
-
-
 ![Platform](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/instruments/plat/midi.png "Platform") 
 
 ![Controller](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/instruments/cont/rolllimitlesscontroller.png "Controller") 
 
 ![Mapping](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/instruments/maps/rolllimitlessmapping.png "Mapping") 
 
-<<<<<<< Updated upstream
 [[Back to Controllers]](https://rb3pc.milohax.org/english/controllers/)
-=======
-[[Back to Controllers]](https://rb3pc.milohax.org/english/controllers/)
->>>>>>> Stashed changes
-
-
 
 Mapped by Uzny
