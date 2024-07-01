@@ -15,6 +15,17 @@ layout: post
 	* Make sure to tell the game which cymbals are connected in the Drum Options menu.
 * Velocity sensitivity doesn't seem to work.
 
+| **RPCS3**    | **Rock Band Drums** |
+|:--------:|:-------------------:|
+| Cross | ![Green Pad](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/drms/rb/gp.png "Green Pad") |
+| Circle | ![Red Pad](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/drms/rb/rp.png "Red Pad") |
+| Square | ![Blue Pad](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/drms/rb/bp.png "Blue Pad") |
+| Triangle | ![Yellow Pad](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/drms/rb/yp.png "Yellow Pad") |
+| L1 | ![Foot Pedal](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/drms/rb/kp.png "Foot Pedal") |
+| D-Pad | ![D-Pad](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/xbox/dp.png "D-Pad") |
+| R1 | ![Second Foot Pedal](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/drms/rb/kp.png "Second Foot Pedal") |
+| R3 | Cymbal Modifier |
+| L3 | Pad Modifier |
 
 ![Platform](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/instruments/plat/wii.png "Platform") 
 
